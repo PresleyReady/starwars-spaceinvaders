@@ -1,0 +1,17 @@
+
+body {
+    text-align: center;
+    text-emphasis-color: orange;
+    text-decoration-color: blueviolet;
+}
+
+canvas {
+    border: 1px solid black;
+    background-image: url('http://kingofwallpapers.com/space/space-008.jpg');
+    background-position: center;
+    background-color: black;
+}
+
+img {
+    display: none;
+}
